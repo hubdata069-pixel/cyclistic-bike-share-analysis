@@ -1,0 +1,12 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Rhistory
+.Ruserdata
+
+# Visuals (optional if large)
+visuals/
+
+# OS
+.DS_Store
