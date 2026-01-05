@@ -5,7 +5,7 @@ This project analyzes **Cyclistic bike share data** to understand how **annual m
 
 ---
 
-## Share Phase – Communicating Findings
+## Communicating Findings
 
 **Objective:** Show executives and stakeholders how members and casual riders behave differently.  
 
@@ -58,7 +58,7 @@ This project analyzes **Cyclistic bike share data** to understand how **annual m
 
 ---
 
-## Act Phase – Recommendations
+## Recommendations
 
 **Final Conclusions:**
 - Members primarily use bikes for **short weekday commuting**.  
@@ -89,7 +89,4 @@ This project analyzes **Cyclistic bike share data** to understand how **annual m
 
 ---
 
-## Author
-**Adem Abdat**  
-- [LinkedIn Profile](#)  
-- [Portfolio](#)
+
